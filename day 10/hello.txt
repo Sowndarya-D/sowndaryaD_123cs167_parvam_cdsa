@@ -1,0 +1,2 @@
+this is the file line.
+writing the file will override its contents.
